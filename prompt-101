@@ -11,10 +11,19 @@ Education: masters - suny buffalo (data science,02/2024), bachelors (cse,2018)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
-let us go through each jd at once,
-
-
-how much I am compatible, what all changes shouldd we make in our resume to make it pass ats
-
-
+Compatibility: a short % or High/Medium/Low and 2–3 sentence rationale.
+Missing skills / keywords: list of exact terms to add for ATS matching.
+Resume edits: concise bullet-level changes (which section, exact sentence replacements or additions).
+Risk check: highlight any suggested change that could hurt interview accuracy.
+Final output: the full updated LaTeX for latex with only the minimal changes needed to improve ATS match (do not invent new projects/roles or change dates).
+Format instructions:
+Respond in numbered sections matching (1)-(5).
+When giving LaTeX, include only the updated file content and wrap it as code.
+If you need clarification, ask before making edits.
 -------------------------------------------------------------------------------------------------------------------------------------
+
+Compatibility: High/Medium/Low + short % and 2–3 sentence rationale.
+Missing skills/keywords: exact words/phrases to add.
+Resume edits: section names plus exact bullet replacements/additions (one-line each).
+Risk check: any recommendation that could hurt interview accuracy.
+Final LaTeX: full updated latex with only minimal, factual changes.
