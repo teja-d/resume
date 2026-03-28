@@ -26,4 +26,4 @@ Compatibility: High/Medium/Low + short % and 2–3 sentence rationale.
 Missing skills/keywords: exact words/phrases to add.
 Resume edits: section names plus exact bullet replacements/additions (one-line each).
 Risk check: any recommendation that could hurt interview accuracy.
-Final LaTeX: full updated latex with only minimal, factual changes.
+Final LaTeX: full updated latex with only minimal, factual changes., genereate the latex code in a code block.
